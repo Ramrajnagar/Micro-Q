@@ -1,10 +1,10 @@
-# Micro-Q ⚡ Autonomous Materials Discovery Pipeline
+# Micro-Q  Autonomous Materials Discovery Pipeline
 
 > *"I already built a proof-of-concept of what you sell."*
 
 **Micro-Q** is a localized, end-to-end materials discovery pipeline that mimics the core value proposition of **Novyte Materials' product Q**: going from a literature hypothesis to an optimized experimental design with scientific reasoning.
 
-Built for the Novyte Materials interview — to show you understand their stack deeply enough to build it from scratch.
+Built for the Novyte Materials.
 
 ---
 
