@@ -1,0 +1,25 @@
+Title: A polyethylene oxide-based composite electrolyte for all-solid-state lithium batteries
+Authors: Wan, J., Xie, J., Kong, X., et al.
+Journal: Nature Nanotechnology, 2019, 14, 705-711
+DOI: 10.1038/s41565-019-0465-3
+
+Abstract: Solid polymer electrolytes offer a promising pathway toward safe, high-energy-density lithium metal batteries. However, their low ionic conductivity at room temperature has limited practical application. Here we report a composite solid electrolyte consisting of polyethylene oxide (PEO), lithium bis(trifluoromethanesulfonyl)imide (LiTFSI), and Al-doped Li6.4La3Zr1.4Ta0.6O12 (LLZTO) fillers that achieves an ionic conductivity of 2.2 × 10⁻⁴ S/cm at 25°C.
+
+Experimental Methods: PEO (Mw = 600,000) and LiTFSI were dissolved in acetonitrile with an EO:Li ratio of 18:1. LLZTO nanoparticles (average diameter 200 nm) were dispersed in the solution at concentrations ranging from 1 to 20 wt%. The mixture was stirred at 50°C for 12 hours, then cast onto PTFE molds and dried at 60°C for 24 hours under vacuum. Free-standing membranes of approximately 100 µm thickness were obtained. The composite electrolyte was then annealed at 100°C for 2 hours to improve crystallinity.
+
+Electrochemical Testing: Ionic conductivity was measured by electrochemical impedance spectroscopy (EIS) over a frequency range of 1 MHz to 0.1 Hz. The optimal composite with 10 wt% LLZTO showed an ionic conductivity of 2.2 × 10⁻⁴ S/cm at 25°C and 1.2 × 10⁻³ S/cm at 60°C. The electrochemical stability window extended to 5.2 V vs. Li/Li+.
+
+Mechanical Properties: The tensile strength of the composite electrolyte was 12 MPa, compared to 4 MPa for pure PEO/LiTFSI. The addition of ceramic fillers increased the Young's modulus from 0.3 GPa to 1.2 GPa.
+
+Battery Performance: LiFePO4|Li cells using the composite electrolyte delivered a capacity of 155 mAh/g at 0.5C and retained 92% capacity after 300 cycles at 60°C.
+
+Key Parameters:
+- PEO molecular weight: 600,000
+- EO:Li ratio: 18:1
+- LLZTO filler content: 10 wt% (optimal)
+- Processing temperature: 50°C (stirring), 60°C (drying)
+- Annealing: 100°C for 2h
+- Membrane thickness: 100 µm
+- Ionic conductivity: 2.2 × 10⁻⁴ S/cm (25°C)
+- Tensile strength: 12 MPa
+- Elastic modulus: 1.2 GPa

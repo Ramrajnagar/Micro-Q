@@ -1,0 +1,24 @@
+Title: Compositional engineering of perovskite solar cells for high efficiency
+Authors: Saliba, M., Matsui, T., Seo, J. Y., et al.
+Journal: Energy & Environmental Science, 2016, 9, 1989-1997
+DOI: 10.1039/C5EE03874J
+
+Abstract: The introduction of formamidinium (FA) and cesium (Cs) into methylammonium lead iodide (MAPbI3) has been shown to improve both the stability and efficiency of perovskite solar cells. Here we demonstrate a triple-cation perovskite composition, Cs0.05(MA0.17FA0.83)0.95Pb(I0.83Br0.17)3, that achieves stabilized power outputs of up to 21.1% and exhibits enhanced thermal stability compared to single-cation compositions.
+
+Experimental Methods: The precursor solution was prepared by mixing formamidinium iodide (FAI, 1.0 M), lead iodide (PbI2, 1.1 M), methylammonium bromide (MABr, 0.2 M), and lead bromide (PbBr2, 0.2 M) in a 4:1 (v/v) mixture of anhydrous DMF:DMSO. Cesium iodide (CsI) was added from a 1.5 M stock solution in DMSO to achieve the desired Cs concentration. The triple-cation precursor was spin-coated at 1000 rpm for 10 seconds followed by 5000 rpm for 30 seconds. During the second step, 100 µL of chlorobenzene was poured onto the spinning substrate 15 seconds before the end of the program. The films were then annealed at 100°C for 60 minutes in a nitrogen-filled glovebox.
+
+Device Characterization: Current-voltage (J-V) curves were measured under simulated AM 1.5G sunlight at 100 mW/cm². The optimized triple-cation device showed an open-circuit voltage (Voc) of 1.14 V, a short-circuit current density (Jsc) of 23.5 mA/cm², and a fill factor (FF) of 0.78, yielding a PCE of 21.1%. The hysteresis index was reduced to less than 3% compared to 12% for MAPbI3 devices.
+
+Stability Testing: Unencapsulated devices retained 95% of their initial efficiency after 500 hours of continuous illumination at maximum power point tracking under ambient conditions (25°C, relative humidity 30-40%). In contrast, MAPbI3 devices degraded to 60% of initial efficiency under identical conditions.
+
+Key Parameters:
+- Precursor concentration: 1.0 M FAI, 1.1 M PbI2, 0.2 M MABr, 0.2 M PbBr2
+- Cs concentration: 5% molar ratio
+- Solvent ratio: DMF:DMSO 4:1 (v/v)
+- Spin-coating: 1000 rpm (10s) + 5000 rpm (30s)
+- Antisolvent: Chlorobenzene (100 µL, 15s before end)
+- Annealing: 100°C for 60 min
+- Best PCE: 21.1%
+- Voc: 1.14 V
+- Jsc: 23.5 mA/cm²
+- FF: 0.78

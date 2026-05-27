@@ -1,0 +1,23 @@
+Title: Efficient, stable and scalable perovskite solar cells using poly(3-hexylthiophene)
+Authors: Jung, E. H., Jeon, N. J., Park, E. Y., et al.
+Journal: Nature, 2019, 567, 511-515
+DOI: 10.1038/s41586-019-1036-3
+
+Abstract: Perovskite solar cells have achieved power conversion efficiencies exceeding 23%, but stability remains a critical barrier to commercialization. Here we demonstrate that poly(3-hexylthiophene) (P3HT) can serve as an efficient hole-transport material when combined with a two-dimensional perovskite capping layer. Devices achieve 22.7% efficiency and retain 95% of initial performance after 1370 hours of continuous operation.
+
+Experimental Methods: The perovskite composition was (FAPbI3)0.95(MAPbBr3)0.05 with a 1.35 M precursor concentration in a 4:1 DMF:DMSO mixture. The solution was spin-coated at 4000 rpm for 25 seconds, with diethyl ether (500 µL) as the antisolvent dropped at 10 seconds. Films were annealed at 150°C for 10 minutes. A 2D perovskite capping layer was formed by spin-coating a solution of phenethylammonium iodide (PEAI, 5 mg/mL in isopropanol) at 5000 rpm for 30 seconds, followed by annealing at 100°C for 5 minutes. P3HT (15 mg/mL in chlorobenzene) was then spin-coated at 3000 rpm for 30 seconds as the hole transport layer.
+
+Characterization: The optimized device achieved a Voc of 1.12 V, Jsc of 24.8 mA/cm², FF of 0.81, and PCE of 22.7%. The 2D capping layer effectively suppressed ion migration and reduced trap-state density from 3.2 × 10¹⁶ to 4.1 × 10¹⁵ cm⁻³.
+
+Stability: Under continuous 1-sun illumination at 60°C in ambient air (relative humidity 40-50%), encapsulated devices retained 95% of initial PCE after 1370 hours of maximum power point tracking. Unencapsulated devices retained 82% after 1000 hours.
+
+Key Parameters:
+- Perovskite: (FAPbI3)0.95(MAPbBr3)0.05
+- Precursor concentration: 1.35 M
+- Solvent: DMF:DMSO 4:1
+- Spin-coating: 4000 rpm, 25s
+- Antisolvent: Diethyl ether, 500 µL at 10s
+- Annealing: 150°C, 10 min
+- PEAI concentration: 5 mg/mL in IPA
+- P3HT concentration: 15 mg/mL in CB
+- Best PCE: 22.7%
