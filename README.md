@@ -187,7 +187,7 @@ After running the pipeline, check `data/output/pipeline_result.json`. The diary 
 
 ## Your Experience Bridge
 
-You've already worked on **CellBox** — deep learning + differential equations for cellular response modeling and drug optimization. That means you understand:
+already worked on **CellBox** — deep learning + differential equations for cellular response modeling and drug optimization.
 
 - **Surrogate modeling** (CellBox's ODE systems → Micro-Q's Gaussian Processes)
 - **High-dimensional optimization** (drug design spaces → material formulation spaces)
